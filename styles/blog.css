@@ -3,3 +3,7 @@ p{
     padding: 10px;
     color: chartreuse;
 }
+img{
+    width: 200px;
+    border: 2px solid antiquewhite;
+}
